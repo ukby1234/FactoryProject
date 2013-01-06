@@ -1,4 +1,4 @@
-Team 14
+Factory Project
 ======
 ##Compile and Run Commands
 The following commands will compile and run all nescessary files. To compile / run indavidual files please read the appropriate sections below.
